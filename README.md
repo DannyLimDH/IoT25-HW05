@@ -79,7 +79,6 @@ Main logic:
 
 ---
 
-## 🔗 References
-
-- [ESP32 BLE Server-Client Tutorial](https://randomnerdtutorials.com/esp32-ble-server-client/)
-- [Adafruit SSD1306 OLED Guide](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples)
+## 🔗 Reference
+Rui Santos, VSCode + PlatformIO IDE: ESP32 & ESP8266, Arduino (Random Nerd Tutorials)
+(https://randomnerdtutorials.com/esp32-ble-server-client/)
